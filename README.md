@@ -8,7 +8,8 @@ README FILE
 A futuristic, animated world map interface displaying real-time cryptocurrency adoption levels and animated global supply routes, powered by a Python backend and rendered with modern React (Next.js + TypeScript + Framer Motion).
 
 ---
-!['Project Screenshot'](https://raw.githubusercontent.com/Dre-AsiliVentures/CryptoAdoptionMap/main/public/Screenshot%202025-03-25%20173148.png)
+![Project Screenshot](https://raw.githubusercontent.com/Dre-AsiliVentures/CryptoAdoptionMap/main/public/Screenshot%202025-03-25%20173148.png)
+
 
 
 ## 🚀 Features
