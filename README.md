@@ -1,4 +1,4 @@
-Here's a polished `README.md` for your futuristic world map + crypto adoption + animated trading agents project using **Next.js**, **Framer Motion**, **React Simple Maps**, and a **FastAPI** backend:
+README FILE
 
 ---
 
