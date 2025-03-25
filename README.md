@@ -8,7 +8,7 @@ Here's a polished `README.md` for your futuristic world map + crypto adoption + 
 A futuristic, animated world map interface displaying real-time cryptocurrency adoption levels and animated global supply routes, powered by a Python backend and rendered with modern React (Next.js + TypeScript + Framer Motion).
 
 ---
-!['Project Screenshot'](./public/Screenshot%202025-03-25%20173148.png)
+!['Project Screenshot'](public/Screenshot 2025-03-25 173148.png)
 
 ## 🚀 Features
 
